@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: black;
+}
+
+.photo {
+  background-image: url(images/DHPbg.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+@font-face {
+  font-family: "VintageKing";
+  src: url(./fonts/VintageKing.ttf);
+}
+
+@font-face {
+  font-family: "RetroClock";
+  src: url(./fonts/RetroClock.ttf);
+}
+
+@font-face {
+  font-family: "SprayLetters";
+  src: url(./fonts/SprayLetters.otf);
+}

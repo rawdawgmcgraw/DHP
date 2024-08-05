@@ -1,0 +1,15 @@
+<a href="https://iconscout.com/icons/instagram" class="text-underline font-size-sm" target="_blank">Instagram</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>
+
+<a href="https://iconscout.com/icons/youtube" class="text-underline font-size-sm" target="_blank">youtube</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>
+
+<a href="https://iconscout.com/icons/facebook" class="text-underline font-size-sm" target="_blank">facebook</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>
+
+<a href="https://iconscout.com/icons/tiktok-square" class="text-underline font-size-sm" target="_blank">tiktok square</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>
+
+<a href="https://iconscout.com/icons/spotify" class="text-underline font-size-sm" target="_blank">Spotify</a> by <a href="https://iconscout.com/contributors/icons" class="text-underline font-size-sm">Dinesh Awtani</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+
+<a href="https://iconscout.com/icons/youtube-music" class="text-underline font-size-sm" target="_blank">Youtube Music</a> by <a href="https://iconscout.com/contributors/enamostudios" class="text-underline font-size-sm">Enamo Studios</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
+
+<a href="https://iconscout.com/icons/itunes" class="text-underline font-size-sm" target="_blank">Apple Music</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>
+
+<a href="https://iconscout.com/icons/mail" class="text-underline font-size-sm" target="_blank">mail</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>
