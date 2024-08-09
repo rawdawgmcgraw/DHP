@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   const navBarLinkStyle =
-    "hidden md:w-[40%] lg:w-[30%] xl:w-[25%] md:flex justify-center items-center rounded-full shadow-md bg-gradient-to-r from-[#9e8b1f] to-[#963939] opacity-40 shadow-slate-600 hover:bg-slate-600 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200";
+    "hidden md:w-[40%] lg:w-[30%] xl:w-[25%] md:flex justify-center items-center rounded-full shadow-md bg-gradient-to-r from-[#9e8b1f] to-[#963939] shadow-slate-600 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200";
   return (
     <div className='block'>
       <AiOutlineMenu

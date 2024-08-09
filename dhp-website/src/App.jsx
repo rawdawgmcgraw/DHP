@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-import Hero from "./components/Hero";
+// import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import PicCollage from "./components/PicCollage";
 
@@ -10,7 +10,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path='/' element={<Hero />} />
+          {/* <Route path='/' element={<Hero />} /> */}
           <Route path='./components/PicCollage.jsx' element={<PicCollage />} />
         </Routes>
         <PicCollage />
