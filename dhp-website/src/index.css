@@ -13,6 +13,13 @@ body {
   background-repeat: no-repeat;
 }
 
+.collage-container {
+  background-image: url(https://images.pexels.com/photos/396547/pexels-photo-396547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 @font-face {
   font-family: "VintageKing";
   src: url(./fonts/VintageKing.ttf);
@@ -26,4 +33,10 @@ body {
 @font-face {
   font-family: "SprayLetters";
   src: url(./fonts/SprayLetters.otf);
+}
+
+@layer {
+  .image {
+    @apply rounded-full hover:scale-110 ease-in duration-200 opacity-70 hover:opacity-100;
+  }
 }
