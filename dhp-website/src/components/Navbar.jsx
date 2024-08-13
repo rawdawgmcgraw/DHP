@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className='block'>
       <AiOutlineMenu
         onClick={handleNav}
-        className='absolute top-12 right-12 z-[99] text-white cursor-pointer size-8'
+        className='md:hidden absolute top-12 right-12 z-[99] text-white cursor-pointer size-8'
       />
 
       {nav ? (
