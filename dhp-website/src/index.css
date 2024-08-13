@@ -37,6 +37,6 @@ body {
 
 @layer {
   .image {
-    @apply rounded-full ease-in duration-200 opacity-70 hover:opacity-100;
+    @apply rounded-full ease-in duration-200 opacity-70 hover:opacity-100 cursor-pointer;
   }
 }
