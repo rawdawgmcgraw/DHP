@@ -17,28 +17,28 @@ const PicCollage = () => {
       <div className='flex max-w-[720px] items-center'>
         <div className='grid grid-cols-4 grid-rows-2 place-items-center gap-4 mx-4 md:-mx-0'>
           <div className='shadow-md hover:shadow-lg shadow-violet-700 hover:shadow-violet-700 ease-in duration-200 rounded-full'>
-            <img className='image' src={ds} alt='' />
+            <img className='image hover:scale-110' src={ds} alt='' />
           </div>
           <div className='shadow-md hover:shadow-lg shadow-blue-600 hover:shadow-blue-600 ease-in duration-200 rounded-full'>
-            <img className='image' src={ds1} alt='' />
+            <img className='image hover:scale-110' src={ds1} alt='' />
           </div>
           <div className='shadow-md hover:shadow-lg shadow-teal-500 hover:shadow-teal-500 ease-in duration-200 rounded-full'>
-            <img className='image' src={ds2} alt='' />
+            <img className='image hover:scale-110' src={ds2} alt='' />
           </div>
           <div className='shadow-md hover:shadow-lg shadow-slate-400 hover:shadow-slate-400 ease-in duration-200 rounded-full'>
-            <img className='image' src={ds3} alt='' />
+            <img className='image hover:scale-110' src={ds3} alt='' />
           </div>
           <div className='shadow-md hover:shadow-lg shadow-orange-400 hover:shadow-orange-400 ease-in duration-200 rounded-full'>
-            <img className='image' src={ds4} alt='' />
+            <img className='image hover:scale-110' src={ds4} alt='' />
           </div>
           <div className='shadow-md hover:shadow-lg shadow-gray-200 hover:shadow-green-200 ease-in duration-200 rounded-full'>
-            <img className='image' src={ds5} alt='' />
+            <img className='image hover:scale-110' src={ds5} alt='' />
           </div>
           <div className='shadow-md hover:shadow-lg shadow-sky-700 hover:shadow-sky-700 ease-in duration-200 rounded-full'>
-            <img className='image' src={ds6} alt='' />
+            <img className='image hover:scale-110' src={ds6} alt='' />
           </div>
           <div className='shadow-md hover:shadow-lg shadow-pink-300 hover:shadow-pink-300 ease-in duration-200 rounded-full'>
-            <img className='image' src={d5} alt='' />
+            <img className='image hover:scale-110' src={d5} alt='' />
           </div>
         </div>
       </div>
